@@ -1,4 +1,4 @@
-# PTT-push-demo
+# PTT-comment-scraping
 
 2018 網際網路應用課程 爬蟲demo
 
