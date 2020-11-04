@@ -1,4 +1,4 @@
-# PTT-comment-scraping
+# PTT Comment Scraping
 
 2018 網際網路應用課程 爬蟲demo
 
